@@ -1,7 +1,8 @@
 # Meeting Application
 
+A meeting application built using Flutter
 
-##Tech Stack
+## Tech Stack
 
 Flutter | Dart | Firebase
 
@@ -10,3 +11,16 @@ Flutter | Dart | Firebase
 - A meeting application similar to zoom
 - Integrated Jitsi meet package for video calls
 - Implemented user authentication through Google Sign-in using Firebase
+
+## Screen Shots
+
+<table>
+   <tr>
+    <td align="center">Home Screen</td>
+    <td align="center">Meeting Screen</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenShots/homeScreen.png" alt="Screenshot 1" /></td>
+    <td align="center"><img src="screenShots/meetingScreen.png" alt="Screenshot 2" /></td>
+  </tr>
+</table>

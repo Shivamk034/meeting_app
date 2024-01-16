@@ -24,3 +24,8 @@ Flutter | Dart | Firebase
     <td align="center"><img src="screenShots/meetingScreen.png" alt="Screenshot 2" /></td>
   </tr>
 </table>
+
+## Note
+To run this app:
+- Configure Firebase
+- Carefully read jitsi_meet documentation if facing any issue.
